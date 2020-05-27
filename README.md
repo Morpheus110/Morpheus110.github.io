@@ -31,6 +31,6 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 - Title: Saliency Detection based on a Method of Background based Space Distribution, invited by School of Electronic and Computer Engineering, Huaqiao University, 2017/23/04.
 
-4. Title: Certain Mathematical Modeling Techniques in Image Processing, invited by Biostatistics and Computational Biology, University of Rochester, 2017/31/07.
+- Title: Certain Mathematical Modeling Techniques in Image Processing, invited by Biostatistics and Computational Biology, University of Rochester, 2017/31/07.
 
-5. Title: Some steps in Inverse Problem Modeling to Image Processing: Continuous and Discrete Settings, (in CMVS of) University of Oulu, 2018/10/09.
+- Title: Some steps in Inverse Problem Modeling to Image Processing: Continuous and Discrete Settings, (in CMVS of) University of Oulu, 2018/10/09.

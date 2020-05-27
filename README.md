@@ -37,13 +37,21 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 ## Members of Conferences
 
-- The 18th IEEE International Workshop on Signal Processing Advances in Wireless Communications, SPAWC 2017, Hokkaido University, Hokkaido, Japan, July 3rd - July 6th, 2017 (Session Chair of Signal Processing and Networking for Big Data)
+- The 18th IEEE International Workshop on Signal Processing Advances in Wireless Communications, SPAWC 2017, Hokkaido University, Hokkaido, Japan, July 3rd - July 6th, 2017 (Session Chair of Signal Processing and Networking for Big Data) [link to it](http://www.spawc2017.org/public.asp?page=home.html)
 
-- 2017 IEEE Conference on Standards for Communications & Networking (CSCN’17), Helsinki, Finland, Sep. 11– Sep.14,2017, (Track Chair of Track on Verticals, Services and Applications)
+- 2017 IEEE Conference on Standards for Communications & Networking (CSCN’17), Helsinki, Finland, Sep. 11– Sep.14,2017, (Track Chair of Track on Verticals, Services and Applications) [link to it](http://cscn2017.ieee-cscn.org)
 
 - IEEE Workshop on Multimedia and Signal Processing (Publication Chair of Local Committee of MMSP2015 in Xiamen)
 
 - 7th EAI International Conference on Cloud Computing (General Co-Chair of Organizing Committee Cloudcomp2016 in Guangzhou)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+## Postgraduates and Ph.Ds
+
+赵彤（厦大，2013-2016年，就业单位：华为）；吴佳雯（厦大，2014-2017年，留校于厦大）；胡宇雯（厦大，2014-2017年，就业单位：华为）；朱攀（厦大，2014-2017年，就业单位：华为）；黄佳斌（厦大，2015-2018年,就业单位：今日头条）；蔡淑莲（厦大，2015-2018年，就业单位：厦门建行）; 常莉君（华工，2016级硕士，2017级博士）;唐周（华工，2016级）；贺鑫（华工，2017级）；廖敏瑜（华工，2018级）；陈致宏（华工，2018级）；林晨（华工，准2019级）；莫小杰（华工，准2019级）
+
+## Collaborators
+
+- [XMU](smartdsp.xmu.edu.cn)
+- [HUST](epic.hust.edu.cn)
+- [John Paisley (Columbia)](http://www.columbia.edu/~jwp2128/)
+- [Xing Qiu (University of Rochester)](https://www.urmc.rochester.edu/people/22230720-xing-qiu)

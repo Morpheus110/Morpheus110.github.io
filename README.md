@@ -14,7 +14,23 @@
 ## Postgraduates and Ph.Ds diraction
 
 ### Postgraduates:
-multimedia information processing, image/speech/text processing
+multimedia information processing, image/speech/text processing.
 
 ### Ph.Ds:
-Computational intelligence, machine learning, fitting and approximation, image/speech/text processing, Big Data Analysis
+Computational intelligence, machine learning, fitting and approximation, image/speech/text processing, Big Data Analysis.
+
+## Teaching
+
+Complex Functions, Calculus, Mathematical and Physical Differential Equations, Elementary Programming, Optimization Methods and Applications, Image Processing, Machine Learning, Information Theory and Coding and Statistical Learning and so on.
+
+## Invited talks
+
+- Title: Inverse problems and its applications to Data Processing, invited by School of Electronic and Computer Engineering, Peiking University, 2016/04/06.
+
+- Title: Metric construction based salient object distinctness description, invited by School of Computer science and Educational Software Engineering, Guangzhou University, 2017/06/04.
+
+- Title: Saliency Detection based on a Method of Background based Space Distribution, invited by School of Electronic and Computer Engineering, Huaqiao University, 2017/23/04.
+
+4. Title: Certain Mathematical Modeling Techniques in Image Processing, invited by Biostatistics and Computational Biology, University of Rochester, 2017/31/07.
+
+5. Title: Some steps in Inverse Problem Modeling to Image Processing: Continuous and Discrete Settings, (in CMVS of) University of Oulu, 2018/10/09.

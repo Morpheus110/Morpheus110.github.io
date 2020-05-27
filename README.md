@@ -37,16 +37,13 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 ## Members of Conferences
 
-- The 18th IEEE International Workshop on Signal Processing Advances in Wireless Communications, SPAWC 2017, Hokkaido University, Hokkaido, Japan, July 3rd - July 6th, 2017 (Session Chair of Signal Processing and Networking for Big Data;http://www.spawc2017.org/public.asp?page=home.html)
+- The 18th IEEE International Workshop on Signal Processing Advances in Wireless Communications, SPAWC 2017, Hokkaido University, Hokkaido, Japan, July 3rd - July 6th, 2017 (Session Chair of Signal Processing and Networking for Big Data)
 
+- 2017 IEEE Conference on Standards for Communications & Networking (CSCN’17), Helsinki, Finland, Sep. 11– Sep.14,2017, (Track Chair of Track on Verticals, Services and Applications)
 
+- IEEE Workshop on Multimedia and Signal Processing (Publication Chair of Local Committee of MMSP2015 in Xiamen)
 
-- 2017 IEEE Conference on Standards for Communications & Networking (CSCN’17), Helsinki, Finland, Sep. 11– Sep.14,2017,(Track Chair of Track on Verticals, Services and Applications;http://cscn2017.ieee-cscn.org)
+- 7th EAI International Conference on Cloud Computing (General Co-Chair of Organizing Committee Cloudcomp2016 in Guangzhou)
 
-
-
-- IEEE Workshop on Multimedia and Signal Processing (Publication Chair of Local Committee of MMSP2015 in Xiamen);
-
-
-
-- 7th EAI International Conference on Cloud Computing  ( General Co-Chair of Organizing Committee Cloudcomp2016 in Guangzhou);
+http://github.com - automatic!
+[GitHub](http://github.com)

@@ -1,30 +1,10 @@
-## Welcome to Morpheus
+# Welcome to SCUT-DACIM
 
-You can use the [editor on GitHub](https://github.com/Morpheus110/Morpheus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction of professor
 
-### 嘻嘻嘻123213123123
+**Prof. Delu Zeng** received his bachelor degree in the Department of Applied Mathematics in South China University of Technology (**SCUT**) in June 2003. Then he went on studying as a postgraduate in this department majoring in Partial Differential Equations (PDEs). In June 2005, he was promoted to be a doctoral candidate majoring in Signal and Information Processing in SCUT and got the Ph.D.in December 2009. From Feb. 2010, he went on to be a postdoctoral fellow in  in SCUT to further pursue his research on machine learning, image processing and pattern recognition. He was promoted to be an associate research fellow in Sept. 2011. Then he went to be an associate professor in the school of Information Science and Engineering in Xiamen University (**XMU**) from April 2013 to June 2016. At present, he is a full professor with the School of Mathematics in South China University of Technology (**SCUT**) in Guangzhou, while holding a visiting professor in XMU; He is a visiting research fellow in **Columbia University** (2017.07-09; 2018.11-2019.11), and was a visiting professor in **University of Oulu** (2018.08-2018.09).
 
-嘻嘻嘻嘻嘻嘻Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

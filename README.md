@@ -49,7 +49,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 ### Candidate
  Name | College | Grade
-------|---------|---------
+------|------|------
  Lijun Chang | SCUT | 2017(Ph.D)
  Xin He | SCUT | 2017
  Zhihong Chen | SCUT | 2018
@@ -61,7 +61,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 ### graduate
  Name | College | Grade | Company
-------|---------|--------|--------
+------|------|------|------
  Tong Zhao | XMU | 2013 | Huawei
  Jiawen Wu | XMU | 2014 | XMU
  Yuwen Hu | XMU | 2014 | Huawei
@@ -86,24 +86,25 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
   Academic voluntary work: ACM member, CCF member, IEEE member, CSIAM member, participating in the National Natural Science Foundation project review.
  
 ### Recently Granted Projects (Selected)
+(The main projects are as follows, other horizontal are not listed.)
 
-- Robust Image Salient Object Perception Prior for Image Segmentation based on PDEs Related Methods，2011.01-2014.12, Granted by NSFC.
+- 国家自然科学基金面上项目，基于PDE的鲁棒视觉显著性目标感知先验的图像分割（61571005），数学与信息交叉领域，2016/01-2019/12, 主持。
 
-- Several Key Issues on Variational Object Contour Extraction Model, 2016.01-2019.12, Granted by NSFC.
+- 国家自然科学基金青年项目，目标检测与提取变分模型的关键问题研究（61103121）、2012/01-2014/12，主持。
 
-- 国家自然科学基金面上项目，基于PDE的鲁棒视觉显著性目标感知先验的图像分割 (61571005)，数学与信息交叉领域，2016.01-2019.12，主持；
+- 国家自然科学基金项目，目标分割中的视觉显著先验的同质性描述（61811530271），在研，主持。
 
-- 国家自然科学基金，目标分割中的视觉显著先验的同质性描述（61811530271），在研，主持；
+- 中央高校基本科研业务费，基于统计先验和变分框架下的图像去雾霾方法研究，在研，主持，2018.09-2020.08。
 
-- 国家自然科学基金青年项目，目标检测与提取变分模型的关键问题研究(61103121)，2012.01-2014.12，主持；
+- 广州市产业技术重大攻关计划现代产业技术专题项目，基于深度学习的企业大脑关键技术研发与产业化, 2017/09-2020/10, 60/400万，单位内主持（企业联合申报）。
 
-- 中央高校基本科研业务费，基于统计先验和变分框架下的图像去雾霾方法研究，2018.09-2020.08, 主持；
+- 广州市科技计划一般项目，图像去雨雾问题的大数据与深度架构逆问题建模， 2018/04-2021/03，主持。
 
-- 广州市科技计划一般项目，图像去雨雾问题的大数据与深度架构逆问题建模， 2018/04-2021/03，主持
+- 厦门大学校长基金，结合贝叶斯框架的偏微分方程图像目标分割鲁棒性方法（20720150093），2015/01-2016/12，主持。
 
-- 中国博士后基金，变分法图像分割有效实现的几个关键问题研究（20100470923），2010/02-2012/02，主持；
+- 中国博士后基金，变分法图像分割有效实现的几个关键问题研究（20100470923），2010/02-2012/02，主持。
 
-- 厦门大学校长基金，结合贝叶斯框架的偏微分方程图像目标分割鲁棒性方法 (20720150093)，2015.01-2016.12，主持；
+- 国家自然科学基金青年项目，变结构向量场下活动轮廓模型的研究（61003170），2011/01-2013/12，第一参与。
 
 ### Research Snapshots(In Construction)
 

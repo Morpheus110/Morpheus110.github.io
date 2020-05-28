@@ -70,7 +70,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
  Pan Zhu | XMU | 2014 | Huawei
  Jiabin Huang | XMU | 2015 | Tou Tiao
  Shulian Cai | XMU | 2015 | CCB in Xiamen
- Tang Zhou | SCUT | 2016 | Hubei
+ Zhou Tang | SCUT | 2016 | Hubei
 
 ## Collaborators
 

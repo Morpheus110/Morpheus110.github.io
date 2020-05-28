@@ -50,7 +50,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 ### Candidate
 
  Name | College | Grade
-------|------|------
+ ------ | ------ | ------
  Lijun Chang | SCUT | 2017(Ph.D)
  Xin He | SCUT | 2017
  Zhihong Chen | SCUT | 2018
@@ -63,7 +63,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 ### graduate
 
  Name | College | Grade | Company
-------|------|------|------
+ ------ | ------ | ------ | ------
  Tong Zhao | XMU | 2013 | Huawei
  Jiawen Wu | XMU | 2014 | XMU
  Yuwen Hu | XMU | 2014 | Huawei
@@ -189,8 +189,3 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
 - Email: dlFamilyname(at)scut.edu.cn (pls. replace Familyname with zeng.)
 - Address: School of mathematics, building 4, SCUT, Tianhe, Guangzhou.
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column

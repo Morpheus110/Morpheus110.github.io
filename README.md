@@ -1,7 +1,7 @@
 # Welcome to SCUT-DACIM
 
 
-## Introduction of professor
+## Introduction of Professor
 
 **Prof. Delu Zeng** received his bachelor degree in the Department of Applied Mathematics in South China University of Technology (**SCUT**) in June 2003. Then he went on studying as a postgraduate in this department majoring in Partial Differential Equations (PDEs). In June 2005, he was promoted to be a doctoral candidate majoring in Signal and Information Processing in SCUT and got the Ph.D.in December 2009. From Feb. 2010, he went on to be a postdoctoral fellow in  in SCUT to further pursue his research on machine learning, image processing and pattern recognition. He was promoted to be an associate research fellow in Sept. 2011. Then he went to be an associate professor in the school of Information Science and Engineering in Xiamen University (**XMU**) from April 2013 to June 2016. At present, he is a full professor with the School of Mathematics in South China University of Technology (**SCUT**) in Guangzhou, while holding a visiting professor in XMU; He is a visiting research fellow in **Columbia University** (2017.07-09; 2018.11-2019.11), and was a visiting professor in **University of Oulu** (2018.08-2018.09).
 
@@ -11,12 +11,12 @@
 
 - Computational intelligence, machine learning, fitting and approximation, e.g., neural networks, optimization methods, statistics learning.
 
-## Postgraduates and Ph.Ds diraction
+## Diraction of Postgraduates and Ph.Ds
 
-### Postgraduates:
+### Postgraduates
 multimedia information processing, image/speech/text processing.
 
-### Ph.Ds:
+### Ph.Ds
 Computational intelligence, machine learning, fitting and approximation, image/speech/text processing, Big Data Analysis.
 
 ## Teaching
@@ -59,7 +59,7 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
  Ruili Lai | SCUT | 2020
  Mengfei Yu | SCUT | 2020
 
-### graduated
+### graduate
  Name | College | Grade | Company
 ------|---------|--------|--------
  Tong Zhao | XMU | 2013 | Huawei
@@ -81,33 +81,29 @@ Complex Functions, Calculus, Mathematical and Physical Differential Equations, E
 
   He has published more than 30 papers in many related-field journals, including IEEE Trans, Neural Networks, IEEE Trans, Image Processing, IEEE Geoscience and Remote Sensing Letters, IEEE Signal Processing Letters, and many video processing pattern recognition top-level conferences such as ICCV and CVPR. He has also participated in the review of multiple international journals, including IEEE TIP, IEEE ITS, IEEE TNNLS, IEEE SMCb.
   
-  He has hosted 3 National Natural Science Foundation projects, and many other provincial and ministerial projects, including National Natural Science Foundation General Projects and Youth Projects and China Postdoctoral Fund Projects. participated in multiple national and provincial ministerial projects, etc .; presided over multiple horizontal projects .
+  He has hosted 3 National Natural Science Foundation projects and many other provincial and ministerial projects, including National Natural Science Foundation General Projects, Youth Projects and China Postdoctoral Fund Projects. He has participated in multiple national, provincial and ministerial projects and presided over many horizontal projects.
  
- 学术义务工作：ACM会员，CCF会员，IEEE会员，CSIAM会员，参与国家自然科学基金项目评审。
+  Academic voluntary work: ACM member, CCF member, IEEE member, CSIAM member, participating in the National Natural Science Foundation project review.
  
 ### Recently Granted Projects (Selected)
 
-1). Robust Image Salient Object Perception Prior for Image Segmentation based on PDEs Related Methods，2011.01-2014.12, Granted by NSFC.
+- Robust Image Salient Object Perception Prior for Image Segmentation based on PDEs Related Methods，2011.01-2014.12, Granted by NSFC.
 
-2). Several Key Issues on Variational Object Contour Extraction Model, 2016.01-2019.12, Granted by NSFC.
+- Several Key Issues on Variational Object Contour Extraction Model, 2016.01-2019.12, Granted by NSFC.
 
-中文名称：
+- 国家自然科学基金面上项目，基于PDE的鲁棒视觉显著性目标感知先验的图像分割 (61571005)，数学与信息交叉领域，2016.01-2019.12，主持；
 
-1）国家自然科学基金面上项目，基于PDE的鲁棒视觉显著性目标感知先验的图像分割 (61571005)，数学与信息交叉领域，2016.01-2019.12，主持；
+- 国家自然科学基金，目标分割中的视觉显著先验的同质性描述（61811530271），在研，主持；
 
-2）国家自然科学基金，目标分割中的视觉显著先验的同质性描述（61811530271），在研，主持；
+- 国家自然科学基金青年项目，目标检测与提取变分模型的关键问题研究(61103121)，2012.01-2014.12，主持；
 
-3）国家自然科学基金青年项目，目标检测与提取变分模型的关键问题研究(61103121)，2012.01-2014.12，主持；
+- 中央高校基本科研业务费，基于统计先验和变分框架下的图像去雾霾方法研究，2018.09-2020.08, 主持；
 
-4）中央高校基本科研业务费，基于统计先验和变分框架下的图像去雾霾方法研究，2018.09-2020.08, 主持；
+- 广州市科技计划一般项目，图像去雨雾问题的大数据与深度架构逆问题建模， 2018/04-2021/03，主持
 
-5）广州市科技计划一般项目，图像去雨雾问题的大数据与深度架构逆问题建模， 2018/04-2021/03，主持
+- 中国博士后基金，变分法图像分割有效实现的几个关键问题研究（20100470923），2010/02-2012/02，主持；
 
-6）中国博士后基金，变分法图像分割有效实现的几个关键问题研究（20100470923），2010/02-2012/02，主持；
-
-7）厦门大学校长基金，结合贝叶斯框架的偏微分方程图像目标分割鲁棒性方法 (20720150093)，2015.01-2016.12，主持；
-
-注：部分主持的其他省部级，横向项目，及参与项目未列出。
+- 厦门大学校长基金，结合贝叶斯框架的偏微分方程图像目标分割鲁棒性方法 (20720150093)，2015.01-2016.12，主持；
 
 ### Research Snapshots(In Construction)
 
